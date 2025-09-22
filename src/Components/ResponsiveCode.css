@@ -1,0 +1,187 @@
+
+/* responsive code */
+@media screen and (max-width:1050px) {
+  .product {
+    flex-basis: 25%;
+  }
+
+  #category-btns button {
+    flex-basis: 22%;
+  }
+
+  #shop-form {
+    width: 80%;
+    margin-top: 3%;
+  }
+
+  #contact-features {
+    width: 90%;
+  }
+
+  #break {
+    display: block;
+  }
+
+  #quick-links {
+    text-align: left;
+  }
+
+  #navigation {
+    width: 25%;
+  }
+  #popup_msg1{
+    width: 60%;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .header {
+    display: block;
+    padding: 3%;
+  }
+
+  .header p {
+    display: block;
+  }
+
+  .header h1 {
+    text-align: center;
+    padding: 2%;
+  }
+
+  #navbar {
+    margin-right: 0;
+    justify-self: center;
+    padding: 2%;
+  }
+
+  #service-intro {
+    padding: 2%;
+    flex-direction: column;
+  }
+
+  #service-intro {
+    text-align: center;
+  }
+
+  .service-msg-container {
+    flex-direction: column;
+  }
+
+  .product {
+    flex-basis: 25%;
+  }
+
+   #category-btns button {
+    flex-basis: 30%;
+  }
+
+  #shop-form {
+    width: 90%;
+    margin-top: 4%;
+  }
+
+  #about-msg {
+    width: 80%;
+  }
+
+  #navigation {
+    width: 35%;
+  }
+}
+
+@media screen and (max-width:675px) {
+  hr {
+    display: block;
+  }
+
+  header {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0;
+  }
+
+  #intro-content {
+    height: fit-content;
+    flex-basis: 90%;
+  }
+
+  #intro-img-div {
+    padding: 5%;
+  }
+
+  #service-intro {
+    padding: 5%;
+    flex-direction: column;
+  }
+
+  #service-intro {
+    text-align: center;
+  }
+
+  #products-container {
+    padding: 0;
+  }
+
+  .product {
+    flex-basis: 45%;
+  }
+
+  #category-btns button {
+    flex-basis: 45%;
+  }
+
+  #shop-form {
+    width: 95%;
+    margin-top: 8%;
+  }
+
+  #shopping-section h1 {
+    font-size: x-large;
+    margin-bottom: 2%;
+  }
+
+  #arrow-img {
+    display: none;
+
+  }
+
+  #future-scope {
+    flex-direction: column;
+  }
+
+  #popup_msg {
+    width: 70%;
+  }
+
+  #contact-features {
+    width: 90%;
+  }
+
+  .feature {
+    flex-basis: 50%;
+    margin-bottom: 3%;
+    /* flex-direction: row; */
+    justify-content: center;
+    column-gap: 5px;
+  }
+
+  .feature h4 {
+    text-align: left;
+  }
+
+  #quick-links {
+    width: 90%;
+  }
+
+  #about-msg {
+    width: 90%;
+  }
+
+  #navigation {
+    width: 55%;
+  }
+  #popup_msg1{
+    width: 80%;
+  }
+}
