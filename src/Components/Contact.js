@@ -10,19 +10,19 @@ function Contact() {
                 <h4>Shop Online with India's most trusted destination.</h4><br />
                 <div id='contact-features'>
                     <div className='feature'>
-                        <img src='/images/trust-feature.png' alt='handshake' /><br />
+                        <img src='/images/features-images/trust-feature.png' alt='handshake' /><br />
                         <h4>Building <br />Trust</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/brand-feature.jpg' alt='Brand' /><br />
+                        <img src='/images/features-images/brand-feature.jpg' alt='Brand' /><br />
                         <h4>Authentic<br /> Brands</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/payment-feature.jpg' alt='money' /><br />
+                        <img src='/images/features-images/payment-feature.jpg' alt='money' /><br />
                         <h4>Secure <br />Payments</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/return-feature.jpeg' alt='delivery returns' /><br />
+                        <img src='/images/features-images/return-feature.jpeg' alt='delivery returns' /><br />
                         <h4>Easy <br />Returns</h4>
                     </div>
                 </div><br /><br />

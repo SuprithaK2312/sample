@@ -16,8 +16,8 @@ function FutureScope() {
   return (
     <div>
       <div id='future-scope'>
-        <img id='future-img' src='/images/future-scope.jpg' alt='Developers developing website' />
-        <img id='arrow-img' src='/images/right-arrow.jpg' alt='Direction right' />
+        <img id='future-img' src='/images/future-scope-images/future-scope.jpg' alt='Developers developing website' />
+        <img id='arrow-img' src='/images/future-scope-images/right-arrow.jpg' alt='Direction right' />
         <button id='future-scope-popup' onClick={showPopup}><h2>Future Scope</h2></button>
 
       </div>
