@@ -8,10 +8,10 @@ function Shopping() {
     var [product, setProduct] = useState('')
     function submitData(e) {
         e.preventDefault()
-        if(name==='' || phone==='' || product===''){
+        if (name === '' || phone === '' || product === '') {
             alert('Enter all the credentials.')
         }
-        else{
+        else {
             showPopup()
         }
         console.log('Name:' + name)
@@ -22,21 +22,21 @@ function Shopping() {
         console.log('Customer ordered date and time information:')
         console.log(dayjs().format("DD-MM-YYYY HH:mm:ss"));
     }
-    function showPopup(){
-    var overlay_div=document.getElementById('overlay_div')
-    var popup_msg=document.getElementById('popup_msg1')
-    overlay_div.style.display="block"
-    popup_msg.style.display="block"
-  }
-  function closePopup(){
-    var overlay_div=document.getElementById('overlay_div')
-    var popup_msg=document.getElementById('popup_msg1')
-    overlay_div.style.display="none"
-    popup_msg.style.display="none"
-  }
-  function clickFunctions(){
-    logInfo()
-  }
+    function showPopup() {
+        var overlay_div = document.getElementById('overlay_div')
+        var popup_msg = document.getElementById('popup_msg1')
+        overlay_div.style.display = "block"
+        popup_msg.style.display = "block"
+    }
+    function closePopup() {
+        var overlay_div = document.getElementById('overlay_div')
+        var popup_msg = document.getElementById('popup_msg1')
+        overlay_div.style.display = "none"
+        popup_msg.style.display = "none"
+    }
+    function clickFunctions() {
+        logInfo()
+    }
     return (
         <div>
             <div id='shopping-section'>

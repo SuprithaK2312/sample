@@ -6,8 +6,8 @@ function Contact() {
 
             <div id='contact'>
                 <br />
-                <h1>Metro Shopping</h1><br/>
-                    <h4>Shop Online with India's most trusted destination.</h4><br />
+                <h1>Metro Shopping</h1><br />
+                <h4>Shop Online with India's most trusted destination.</h4><br />
                 <div id='contact-features'>
                     <div className='feature'>
                         <img src='/images/trust-feature.png' alt='handshake' /><br />
@@ -42,11 +42,11 @@ function Contact() {
                     <img className='icons' src='/images/icons/twitter-icon.png' alt='' />
                     <img className='icons' src='/images/icons/youtube-icon.png' alt='' />
                 </div><br />
-                
+
                 <div className="contact-info">
                     <h4><p>📍 Location: Kumbakonam, India</p>
-                    <p>📧 Email: info@example123.com</p>
-                    <p>📞 Phone: +91 98765 43210</p></h4>
+                        <p>📧 Email: info@example123.com</p>
+                        <p>📞 Phone: +91 98765 43210</p></h4>
                 </div><br /><br />
             </div>
 

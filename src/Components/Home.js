@@ -37,10 +37,10 @@ function Home() {
         <hr />
         <Services />
         <Collections />
-        <Advertisement/>
-        <Shopping/>
-        <FutureScope/>
-        <Contact/>
+        <Advertisement />
+        <Shopping />
+        <FutureScope />
+        <Contact />
       </div>
     </div>
   );

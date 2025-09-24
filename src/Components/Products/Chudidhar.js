@@ -5,7 +5,7 @@ function Chudidhar() {
     return (
         <div>
             <div id="chudidhar-container">
-                <div className="product">
+                <div className="product" id='chudidhar1'>
                     <img src="/images/chudidhar-images/chudidhar1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -16,7 +16,7 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='chudidhar2'>
                     <img src="/images/chudidhar-images/chudidhar2.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -27,7 +27,7 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='chudidhar3'>
                     <img src="/images/chudidhar-images/chudidhar3.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -38,18 +38,18 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='chudidhar4'>
                     <img src="/images/chudidhar-images/chudidhar4.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
                     <div className='product-info'>
-                        <p className='product-name'>BDark merun with white cotton chudidhar</p>
+                        <p className='product-name'>Dark merun with white cotton chudidhar</p>
                         <p className='product-price'>&#8377;899</p>
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='chudidhar5'>
                     <img src="/images/chudidhar-images/chudidhar5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -60,8 +60,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar6.webp" alt="Chocolate printed maxi" />
+                <div className="product" id='chudidhar6'>
+                    <img src="/images/chudidhar-images/chudidhar6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -71,8 +71,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar7.webp" alt="Black leaf pattern umbrella kurti" />
+                <div className="product" id='chudidhar7'>
+                    <img src="/images/chudidhar-images/chudidhar7.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -82,8 +82,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar8.webp" alt="White embroidery floral umbrella type kurti<" />
+                <div className="product" id='chudidhar8'>
+                    <img src="/images/chudidhar-images/chudidhar8.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -93,8 +93,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar9.jpg" alt="White multi-colored floral italian kaftan" />
+                <div className="product" id='chudidhar9'>
+                    <img src="/images/chudidhar-images/chudidhar9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -104,8 +104,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar10.jpg" alt="Navy blue pattern kurti" />
+                <div className="product" id='chudidhar10'>
+                    <img src="/images/chudidhar-images/chudidhar10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -115,8 +115,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar11.jpg" alt="Pulpy orange office wear kurti" />
+                <div className="product" id='chudidhar11'>
+                    <img src="/images/chudidhar-images/chudidhar11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -126,8 +126,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar12.jpg" alt="Majanta fancy party wear kurti" />
+                <div className="product" id='chudidhar12'>
+                    <img src="/images/chudidhar-images/chudidhar12.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -137,8 +137,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar13.jpg" alt="Black and white checked kurti" />
+                <div className="product" id='chudidhar13'>
+                    <img src="/images/chudidhar-images/chudidhar13.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -148,8 +148,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar14.jpg" alt="Multi-green pattern fancy kurti" />
+                <div className="product" id='chudidhar14'>
+                    <img src="/images/chudidhar-images/chudidhar14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -159,8 +159,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar15.jpeg" alt="Black with white and orange floral kurti" />
+                <div className="product" id='chudidhar15'>
+                    <img src="/images/chudidhar-images/chudidhar15.jpeg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -170,8 +170,8 @@ function Chudidhar() {
                     </div>
                 </div>
 
-                <div className="product">
-                    <img src="/images/chudidhar-images/chudidhar16.jpg" alt="Purple fancy wear anarkali" />
+                <div className="product" id='chudidhar16'>
+                    <img src="/images/chudidhar-images/chudidhar16.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>

@@ -124,18 +124,17 @@ header {
   padding-left: 2%;
 }
 
-#category-btns{
+#category-btns {
   display: flex;
   border: none;
   justify-content: space-evenly;
-  padding: 2%;
   flex-wrap: wrap;
-  background-color:#ecfafc;
+  background-color: #ecfafc;
   margin: 2%;
   border-radius: 10px;
 }
 
-#category-btns button{
+#category-btns button {
   border-radius: 10px;
   border: none;
   flex-basis: 20%;
@@ -145,29 +144,39 @@ header {
   padding: 2%;
 }
 
-#category-btns button:active, #category-btns button:focus{
+#category-btns button:active,
+#category-btns button:focus {
   border: 2px solid gray;
 }
 
 
-#category-btn{
+#category-btn {
   cursor: pointer;
-  border:none;
+  border: none;
 }
 
-#category-btn img{
+#category-btn img {
   width: 100%;
-  height:100%;
+  height: 100%;
   border-radius: 10px;
 }
 
-#kurti-container, #chudidhar-container, #anarkali-container, #ethinicSkirts-container {
+#kurti-container,
+#chudidhar-container,
+#anarkali-container,
+#ethinicSkirts-container,
+#searchProducts_container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
-.product {
+#searchProducts_container {
+  display: none;
+}
+
+.product,
+.searchProduct {
   flex-basis: 20%;
   height: 25%;
   border-radius: 10px;
@@ -176,7 +185,8 @@ header {
   margin-bottom: 4%;
 }
 
-.product img {
+.product img,
+.searchProduct img {
   width: 100%;
   height: 100%;
   border-radius: 10px;
@@ -206,7 +216,8 @@ header {
   justify-content: space-evenly;
 }
 
-.product-name {
+.product-name,
+.searchProductName {
   flex-basis: 75%;
 }
 
@@ -335,17 +346,17 @@ header {
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
   z-index: 2;
   display: none;
-  color:black;
+  color: black;
   padding: 2%;
   width: 30%;
 }
 
-#popup_msg1 h3{
+#popup_msg1 h3 {
   text-align: left;
   margin: 2%;
 }
 
-#popup_msg1 button{
+#popup_msg1 button {
   margin: 2%;
 }
 
@@ -444,14 +455,29 @@ header {
   filter: invert(0);
 }
 
-#offer-banner{
+#offer-banner {
   display: flex;
   justify-content: center;
   margin: 2%;
   border-radius: 20px;
 }
 
-#offer-banner img{
+#offer-banner img {
   width: 90%;
   border-radius: 20px;
+}
+
+#search-section {
+  display: flex;
+  justify-content: center;
+}
+
+#searchBar {
+  width: 95%;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid gray;
+  padding: 0.4%;
+  font-size: large;
+  outline: none;
 }

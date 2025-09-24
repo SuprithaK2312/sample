@@ -4,7 +4,7 @@ function Anarkali() {
     return (
         <div>
             <div id="anarkali-container">
-                <div className="product">
+                <div className="product" id='anarkali1'>
                     <img src="/images/anarkali-images/anarkali1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -15,7 +15,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali2'>
                     <img src="/images/anarkali-images/anarkali2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -26,7 +26,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali3'>
                     <img src="/images/anarkali-images/anarkali3.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -37,7 +37,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali4'>
                     <img src="/images/anarkali-images/anarkali4.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -48,7 +48,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali5'>
                     <img src="/images/anarkali-images/anarkali5.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -59,7 +59,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali6'>
                     <img src="/images/anarkali-images/anarkali6.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -70,7 +70,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali7'>
                     <img src="/images/anarkali-images/anarkali7.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -81,7 +81,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali8'>
                     <img src="/images/anarkali-images/anarkali8.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -92,7 +92,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali9'>
                     <img src="/images/anarkali-images/anarkali9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -103,7 +103,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali10'>
                     <img src="/images/anarkali-images/anarkali10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -114,7 +114,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali11'>
                     <img src="/images/anarkali-images/anarkali11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -125,7 +125,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali12'>
                     <img src="/images/anarkali-images/anarkali12.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -136,7 +136,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali13'>
                     <img src="/images/anarkali-images/anarkali13.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -147,7 +147,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali14'>
                     <img src="/images/anarkali-images/anarkali14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -158,7 +158,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali15'>
                     <img src="/images/anarkali-images/anarkali15.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -169,7 +169,7 @@ function Anarkali() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='anarkali16'>
                     <img src="/images/anarkali-images/anarkali16.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -178,7 +178,6 @@ function Anarkali() {
                         <p className='product-name'>Brown multi-color royal chudidhar</p>
                         <p className='product-price'>&#8377;999</p>
                     </div>
-
                 </div>
             </div>
         </div>

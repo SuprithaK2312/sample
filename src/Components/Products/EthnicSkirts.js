@@ -4,7 +4,7 @@ function EthnicSkirts() {
     return (
         <div>
             <div id="ethinicSkirts-container">
-                <div className="product">
+                <div className="product" id='skirt1'>
                     <img src="/images/ethinic-skirts-images/skirt1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -15,7 +15,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt2'>
                     <img src="/images/ethinic-skirts-images/skirt2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -26,7 +26,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt3'>
                     <img src="/images/ethinic-skirts-images/skirt3.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -37,7 +37,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt4'>
                     <img src="/images/ethinic-skirts-images/skirt4.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -48,7 +48,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt5'>
                     <img src="/images/ethinic-skirts-images/skirt5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -59,7 +59,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt6'>
                     <img src="/images/ethinic-skirts-images/skirt6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -70,7 +70,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt7'>
                     <img src="/images/ethinic-skirts-images/skirt7.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -81,7 +81,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt8'>
                     <img src="/images/ethinic-skirts-images/skirt8.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
@@ -92,7 +92,7 @@ function EthnicSkirts() {
                     </div>
                 </div>
 
-                <div className="product">
+                <div className="product" id='skirt9'>
                     <img src="/images/ethinic-skirts-images/skirt9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
