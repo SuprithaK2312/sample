@@ -6,7 +6,7 @@ import FutureScope from './FutureScope';
 import Services from './Services';
 import Shopping from './Shopping';
 import Advertisement from './Advertisement';
-import introFashionImage from "./images/intro_images/intro-fashion-image.jpg";
+import introFashionImage from "../images/intro_images/intro-fashion-image.jpg";
 
 function Home() {
 
