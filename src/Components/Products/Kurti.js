@@ -5,7 +5,7 @@ function Kurti() {
         <div>
             <div id="kurti-container">
                 <div className="product" id='kurti1'>
-                    <img src="/images/kurti-images/product1.webp" alt="" />
+                    <img src="./images/kurti-images/product1.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -16,7 +16,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti2'>
-                    <img src="/images/kurti-images/product2.webp" alt="" />
+                    <img src="./images/kurti-images/product2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -27,7 +27,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti3'>
-                    <img src="/images/kurti-images/product3.jpg" alt="" />
+                    <img src="./images/kurti-images/product3.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -38,7 +38,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti4'>
-                    <img src="/images/kurti-images/product4.jpg" alt="" />
+                    <img src="./images/kurti-images/product4.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -49,7 +49,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti5'>
-                    <img src="/images/kurti-images/product5.jpg" alt="" />
+                    <img src="./images/kurti-images/product5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -60,7 +60,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti6'>
-                    <img src="/images/kurti-images/product6.webp" alt="" />
+                    <img src="./images/kurti-images/product6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -71,7 +71,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti7'>
-                    <img src="/images/kurti-images/product7.jpg" alt="" />
+                    <img src="./images/kurti-images/product7.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -82,7 +82,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti8'>
-                    <img src="/images/kurti-images/product8.jpeg" alt="" />
+                    <img src="./images/kurti-images/product8.jpeg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -93,7 +93,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti9'>
-                    <img src="/images/kurti-images/product9.jpg" alt="" />
+                    <img src="./images/kurti-images/product9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -104,7 +104,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti10'>
-                    <img src="/images/kurti-images/product10.jpg" alt="" />
+                    <img src="./images/kurti-images/product10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -115,7 +115,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti11'>
-                    <img src="/images/kurti-images/product11.jpg" alt="" />
+                    <img src="./images/kurti-images/product11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -126,7 +126,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti12'>
-                    <img src="/images/kurti-images/product12.jpg" alt="" />
+                    <img src="./images/kurti-images/product12.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -137,7 +137,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti13'>
-                    <img src="/images/kurti-images/product13.jpg" alt="" />
+                    <img src="./images/kurti-images/product13.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -148,7 +148,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti14'>
-                    <img src="/images/kurti-images/product14.jpg" alt="" />
+                    <img src="./images/kurti-images/product14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -159,7 +159,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti15'>
-                    <img src="/images/kurti-images/product15.jpg" alt="" />
+                    <img src="./images/kurti-images/product15.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -170,7 +170,7 @@ function Kurti() {
                 </div>
 
                 <div className="product" id='kurti16'>
-                    <img src="/images/kurti-images/product16.webp" alt="" />
+                    <img src="./images/kurti-images/product16.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>

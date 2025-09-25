@@ -6,7 +6,7 @@ function Chudidhar() {
         <div>
             <div id="chudidhar-container">
                 <div className="product" id='chudidhar1'>
-                    <img src="/images/chudidhar-images/chudidhar1.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -17,7 +17,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar2'>
-                    <img src="/images/chudidhar-images/chudidhar2.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar2.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -28,7 +28,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar3'>
-                    <img src="/images/chudidhar-images/chudidhar3.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar3.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -39,7 +39,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar4'>
-                    <img src="/images/chudidhar-images/chudidhar4.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar4.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -50,7 +50,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar5'>
-                    <img src="/images/chudidhar-images/chudidhar5.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -61,7 +61,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar6'>
-                    <img src="/images/chudidhar-images/chudidhar6.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -72,7 +72,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar7'>
-                    <img src="/images/chudidhar-images/chudidhar7.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar7.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -83,7 +83,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar8'>
-                    <img src="/images/chudidhar-images/chudidhar8.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar8.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -94,7 +94,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar9'>
-                    <img src="/images/chudidhar-images/chudidhar9.jpg" alt="" />
+                    <img src="../images/chudidhar-images/chudidhar9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -105,7 +105,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar10'>
-                    <img src="/images/chudidhar-images/chudidhar10.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -116,7 +116,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar11'>
-                    <img src="/images/chudidhar-images/chudidhar11.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -127,7 +127,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar12'>
-                    <img src="/images/chudidhar-images/chudidhar12.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar12.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -138,7 +138,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar13'>
-                    <img src="/images/chudidhar-images/chudidhar13.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar13.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -149,7 +149,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar14'>
-                    <img src="/images/chudidhar-images/chudidhar14.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -160,7 +160,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar15'>
-                    <img src="/images/chudidhar-images/chudidhar15.jpeg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar15.jpeg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -171,7 +171,7 @@ function Chudidhar() {
                 </div>
 
                 <div className="product" id='chudidhar16'>
-                    <img src="/images/chudidhar-images/chudidhar16.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar16.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>

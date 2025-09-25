@@ -6,7 +6,7 @@ function Products() {
             <div id="searchProducts_container">
                 {/* Chudidhar */}
                 <div className="searchProduct" id='chudidhar1'>
-                    <img src="/images/chudidhar-images/chudidhar1.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -17,7 +17,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar2'>
-                    <img src="/images/chudidhar-images/chudidhar2.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar2.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -28,7 +28,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar3'>
-                    <img src="/images/chudidhar-images/chudidhar3.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar3.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -39,7 +39,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar4'>
-                    <img src="/images/chudidhar-images/chudidhar4.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar4.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -50,7 +50,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar5'>
-                    <img src="/images/chudidhar-images/chudidhar5.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -61,7 +61,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar6'>
-                    <img src="/images/chudidhar-images/chudidhar6.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -72,7 +72,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar7'>
-                    <img src="/images/chudidhar-images/chudidhar7.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar7.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -83,7 +83,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar8'>
-                    <img src="/images/chudidhar-images/chudidhar8.webp" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar8.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -94,7 +94,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar9'>
-                    <img src="/images/chudidhar-images/chudidhar9.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -105,7 +105,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar10'>
-                    <img src="/images/chudidhar-images/chudidhar10.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -116,7 +116,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar11'>
-                    <img src="/images/chudidhar-images/chudidhar11.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -127,7 +127,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar12'>
-                    <img src="/images/chudidhar-images/chudidhar12.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar12.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -138,7 +138,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar13'>
-                    <img src="/images/chudidhar-images/chudidhar13.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar13.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -149,7 +149,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar14'>
-                    <img src="/images/chudidhar-images/chudidhar14.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -160,7 +160,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar15'>
-                    <img src="/images/chudidhar-images/chudidhar15.jpeg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar15.jpeg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -171,7 +171,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='chudidhar16'>
-                    <img src="/images/chudidhar-images/chudidhar16.jpg" alt="" />
+                    <img src="./images/chudidhar-images/chudidhar16.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -183,7 +183,7 @@ function Products() {
 
                 {/* anarkali */}
                 <div className="searchProduct" id='anarkali1'>
-                    <img src="/images/anarkali-images/anarkali1.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -194,7 +194,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali2'>
-                    <img src="/images/anarkali-images/anarkali2.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -205,7 +205,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali3'>
-                    <img src="/images/anarkali-images/anarkali3.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali3.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -216,7 +216,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali4'>
-                    <img src="/images/anarkali-images/anarkali4.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali4.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -227,7 +227,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali5'>
-                    <img src="/images/anarkali-images/anarkali5.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali5.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -238,7 +238,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali6'>
-                    <img src="/images/anarkali-images/anarkali6.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali6.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -249,7 +249,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali7'>
-                    <img src="/images/anarkali-images/anarkali7.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali7.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -260,7 +260,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali8'>
-                    <img src="/images/anarkali-images/anarkali8.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali8.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -271,7 +271,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali9'>
-                    <img src="/images/anarkali-images/anarkali9.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -282,7 +282,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali10'>
-                    <img src="/images/anarkali-images/anarkali10.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -293,7 +293,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali11'>
-                    <img src="/images/anarkali-images/anarkali11.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -304,7 +304,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali12'>
-                    <img src="/images/anarkali-images/anarkali12.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali12.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -315,7 +315,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali13'>
-                    <img src="/images/anarkali-images/anarkali13.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali13.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -326,7 +326,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali14'>
-                    <img src="/images/anarkali-images/anarkali14.jpg" alt="" />
+                    <img src="./images/anarkali-images/anarkali14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -337,7 +337,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali15'>
-                    <img src="/images/anarkali-images/anarkali15.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali15.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -348,7 +348,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='anarkali16'>
-                    <img src="/images/anarkali-images/anarkali16.webp" alt="" />
+                    <img src="./images/anarkali-images/anarkali16.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -360,7 +360,7 @@ function Products() {
 
                 {/* kurti */}
                 <div className="searchProduct" id='kurti1'>
-                    <img src="/images/kurti-images/product1.webp" alt="" />
+                    <img src="./images/kurti-images/product1.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -371,7 +371,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti2'>
-                    <img src="/images/kurti-images/product2.webp" alt="" />
+                    <img src="./images/kurti-images/product2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -382,7 +382,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti3'>
-                    <img src="/images/kurti-images/product3.jpg" alt="" />
+                    <img src="./images/kurti-images/product3.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -393,7 +393,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti4'>
-                    <img src="/images/kurti-images/product4.jpg" alt="" />
+                    <img src="./images/kurti-images/product4.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -404,7 +404,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti5'>
-                    <img src="/images/kurti-images/product5.jpg" alt="" />
+                    <img src="./images/kurti-images/product5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -415,7 +415,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti6'>
-                    <img src="/images/kurti-images/product6.webp" alt="" />
+                    <img src="./images/kurti-images/product6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -426,7 +426,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti7'>
-                    <img src="/images/kurti-images/product7.jpg" alt="" />
+                    <img src="./images/kurti-images/product7.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -437,7 +437,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti8'>
-                    <img src="/images/kurti-images/product8.jpeg" alt="" />
+                    <img src="./images/kurti-images/product8.jpeg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -448,7 +448,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti9'>
-                    <img src="/images/kurti-images/product9.jpg" alt="" />
+                    <img src="./images/kurti-images/product9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -459,7 +459,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti10'>
-                    <img src="/images/kurti-images/product10.jpg" alt="" />
+                    <img src="./images/kurti-images/product10.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -470,7 +470,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti11'>
-                    <img src="/images/kurti-images/product11.jpg" alt="" />
+                    <img src="./images/kurti-images/product11.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -481,7 +481,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti12'>
-                    <img src="/images/kurti-images/product12.jpg" alt="" />
+                    <img src="./images/kurti-images/product12.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -492,7 +492,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti13'>
-                    <img src="/images/kurti-images/product13.jpg" alt="" />
+                    <img src="./images/kurti-images/product13.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -503,7 +503,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti14'>
-                    <img src="/images/kurti-images/product14.jpg" alt="" />
+                    <img src="./images/kurti-images/product14.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -514,7 +514,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti15'>
-                    <img src="/images/kurti-images/product15.jpg" alt="" />
+                    <img src="./images/kurti-images/product15.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -525,7 +525,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='kurti16'>
-                    <img src="/images/kurti-images/product16.webp" alt="" />
+                    <img src="./images/kurti-images/product16.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -537,7 +537,7 @@ function Products() {
 
                 {/* skirts */}
                 <div className="searchProduct" id='skirt1'>
-                    <img src="/images/ethinic-skirts-images/skirt1.jpg" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt1.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -548,7 +548,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt2'>
-                    <img src="/images/ethinic-skirts-images/skirt2.webp" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt2.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -559,7 +559,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt3'>
-                    <img src="/images/ethinic-skirts-images/skirt3.webp" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt3.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -570,7 +570,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt4'>
-                    <img src="/images/ethinic-skirts-images/skirt4.webp" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt4.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -581,7 +581,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt5'>
-                    <img src="/images/ethinic-skirts-images/skirt5.jpg" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt5.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -592,7 +592,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt6'>
-                    <img src="/images/ethinic-skirts-images/skirt6.webp" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt6.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -603,7 +603,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt7'>
-                    <img src="/images/ethinic-skirts-images/skirt7.jpg" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt7.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -614,7 +614,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt8'>
-                    <img src="/images/ethinic-skirts-images/skirt8.webp" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt8.webp" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>
@@ -625,7 +625,7 @@ function Products() {
                 </div>
 
                 <div className="searchProduct" id='skirt9'>
-                    <img src="/images/ethinic-skirts-images/skirt9.jpg" alt="" />
+                    <img src="./images/ethinic-skirts-images/skirt9.jpg" alt="" />
                     <a href="#shopping-section">
                         <button className="shop-product-btn">Shop Now →</button>
                     </a>

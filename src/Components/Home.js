@@ -30,7 +30,7 @@ function Home() {
 
           </div>
           <div id="intro-img-div">
-            <img src="/images/intro-images/intro-fashion-image.jpg" alt='' />
+            <img src="./images/intro-images/intro-fashion-image.jpg" alt='' />
           </div>
 
         </header>

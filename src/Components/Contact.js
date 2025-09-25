@@ -10,19 +10,19 @@ function Contact() {
                 <h4>Shop Online with India's most trusted destination.</h4><br />
                 <div id='contact-features'>
                     <div className='feature'>
-                        <img src='/images/features-images/trust-feature.png' alt='handshake' /><br />
+                        <img src='./images/features-images/trust-feature.png' alt='handshake' /><br />
                         <h4>Building <br />Trust</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/features-images/brand-feature.jpg' alt='Brand' /><br />
+                        <img src='./images/features-images/brand-feature.jpg' alt='Brand' /><br />
                         <h4>Authentic<br /> Brands</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/features-images/payment-feature.jpg' alt='money' /><br />
+                        <img src='./images/features-images/payment-feature.jpg' alt='money' /><br />
                         <h4>Secure <br />Payments</h4>
                     </div>
                     <div className='feature'>
-                        <img src='/images/features-images/return-feature.jpeg' alt='delivery returns' /><br />
+                        <img src='./images/features-images/return-feature.jpeg' alt='delivery returns' /><br />
                         <h4>Easy <br />Returns</h4>
                     </div>
                 </div><br /><br />
@@ -36,11 +36,11 @@ function Contact() {
 
                 </div>
                 <div id='navigation'>
-                    <img className='icons' src='/images/icons/whatsapp-icon.png' alt='' />
-                    <img className='icons' src='/images/icons/instagram-icon.png' alt='' />
-                    <img className='icons' src='/images/icons/gmail-icon.png' alt='' />
-                    <img className='icons' src='/images/icons/twitter-icon.png' alt='' />
-                    <img className='icons' src='/images/icons/youtube-icon.png' alt='' />
+                    <img className='icons' src='./images/icons/whatsapp-icon.png' alt='' />
+                    <img className='icons' src='./images/icons/instagram-icon.png' alt='' />
+                    <img className='icons' src='./images/icons/gmail-icon.png' alt='' />
+                    <img className='icons' src='./images/icons/twitter-icon.png' alt='' />
+                    <img className='icons' src='./images/icons/youtube-icon.png' alt='' />
                 </div><br />
 
                 <div className="contact-info">

@@ -18,26 +18,26 @@ function Collections() {
                 <div id='category-btns'>
                     <button onClick={() => setCategory('chudidhar')}>
                         <div id='category-btn'>
-                            <img src='/images/chudidhar-images/chudidhar2.jpg' alt='' /><br /><br />
+                            <img src='./images/chudidhar-images/chudidhar2.jpg' alt='' /><br /><br />
                             <h2>CHUDIDHAR</h2>
                         </div>
                     </button>
                     <button onClick={() => setCategory('anarkali')}>
                         <div id='category-btn'>
-                            <img src='/images/anarkali-images/anarkali8.jpg' alt='' /><br /><br />
+                            <img src='./images/anarkali-images/anarkali8.jpg' alt='' /><br /><br />
                             <h2>ANARKALI</h2>
                         </div>
                     </button>
                     <button onClick={() => setCategory('kurti')}>
                         <div id='category-btn'>
-                            <img src='/images/kurti-images/product4.jpg' alt='' /><br /><br />
+                            <img src='./images/kurti-images/product4.jpg' alt='' /><br /><br />
                             <h2>KURTI</h2>
                         </div>
                     </button>
 
                     <button onClick={() => setCategory('ethnicSkirts')}>
                         <div id='category-btn'>
-                            <img src='/images/ethinic-skirts-images/skirt8.webp' alt='' /><br /><br />
+                            <img src='./images/ethinic-skirts-images/skirt8.webp' alt='' /><br /><br />
                             <h2>ETHNIC SKIRTS</h2>
                         </div>
                     </button>
